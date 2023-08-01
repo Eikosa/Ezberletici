@@ -1,0 +1,1 @@
+"C:\Users\Arda\AppData\Roaming\Python\Python310\Scripts\pyside6-uic.exe" untitled.ui -o ui_mainwindow.py

@@ -1,0 +1,6 @@
+# pycache folder
+__pycache__/
+
+# ignore everything inside cards except example.txt
+cards/**
+!cards/example card.txt
